@@ -2,7 +2,7 @@
 ## Project Objective
 The objective of this project is to analyze sales data from multiple sources using Power BI in order to uncover trends, measure key performance indicators (KPIs), and generate actionable business insights. The dashboard provides a comprehensive view of sales performance across different countries, customer types, time periods, and sales representatives to support data-driven decision-making.
 
-# Tools & Technologies Used
+## Tools & Technologies Used
 - Power BI
 - Microsoft Excel
 - Data Cleaning (Excel/Power Query)
